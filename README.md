@@ -1,6 +1,6 @@
 # Sign Language Detection System 
 
-This project implements a **Sign Language Detection system** using **Python**, **OpenCV**, **MediaPipe**, and ** Scikit-learn**.  
+This project implements a **Sign Language Detection system** using **Python**, **OpenCV**, **MediaPipe**, and **Scikit-learn**.  
 It captures hand landmarks in real time and predicts sign language gestures to help improve communication accessibility.
 
 ---
